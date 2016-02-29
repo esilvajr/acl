@@ -1,16 +1,16 @@
 {
-    "name": "wesleywillians/acl",
+    "name": "esilvajr/acl",
     "license": "MIT",
     "authors": [
         {
-            "name": "Wesley Willians",
-            "email": "wesleywillians@gmail.com"
+            "name": "Edison Silva Jr",
+            "email": "edison.junior@s2it.com.br"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "CodeEdu\\Acl\\": "src/"
+            "\\Acl\\": "src/"
         }
     }
 }
